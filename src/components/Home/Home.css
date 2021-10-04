@@ -1,0 +1,38 @@
+.mainCard {
+	color: black;
+	height: 300px;
+	background-color: #fff;
+}
+.transportName:hover {
+	text-decoration: none;
+	border: none;
+}
+.mainCard img {
+	height: 150px;
+	width: 200px;
+	display: block;
+	margin: auto;
+	padding: 15px;
+	transition: all 400ms;
+}
+.mainCard img:hover {
+	transform: scale(1.1);
+	transition: all 400ms;
+}
+.mainCard .transportName {
+	color: black;
+	text-align: center;
+}
+
+.App {
+	height: auto;
+	min-height: 100vh;
+	background: linear-gradient(39deg, #667eea 0%, #764ba2 100%);
+	/* background-color: #667eea → #764ba2; */
+}
+
+@media only screen and (max-width: 425px) {
+	.main-home {
+		height: auto !important;
+	}
+}

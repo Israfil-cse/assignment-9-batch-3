@@ -1,0 +1,25 @@
+[
+    {
+        "id": 1,
+        "transportType": "car",
+        "image": "https://cdn.pixabay.com/photo/2016/04/01/12/00/automobile-1300467_960_720.png"
+      },
+      {
+        "id": 2,
+        "transportType": "bike",
+        "image": "https://cdn.pixabay.com/photo/2014/04/02/10/49/transportation-304696_960_720.png"
+      }
+      ,
+      {
+        "id": 3,
+        "transportType": "train",
+        "image": "https://cdn.pixabay.com/photo/2013/07/12/12/54/high-speed-train-146498_960_720.png"
+      }
+      ,
+      {
+        "id": 3,
+        "transportType": "bus",
+        "image": "https://cdn.pixabay.com/photo/2016/03/31/22/28/bus-1297050_960_720.png"
+      }
+
+]

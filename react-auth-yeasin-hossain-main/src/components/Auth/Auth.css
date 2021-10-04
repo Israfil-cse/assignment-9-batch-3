@@ -1,0 +1,16 @@
+.Auth input {
+	border: none;
+	border-bottom: solid 1px gray;
+	border-radius: 0;
+	font-weight: bold;
+	color: black;
+	/* margin: 10px; */
+}
+.Auth {
+	border: solid 1px gray;
+	padding: 10px;
+	background-color: #fff;
+}
+.googleLogin svg {
+	font-size: 52px;
+}

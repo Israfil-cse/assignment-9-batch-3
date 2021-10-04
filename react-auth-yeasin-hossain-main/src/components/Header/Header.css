@@ -1,0 +1,19 @@
+.Header a {
+	color: black;
+	font-weight: bold;
+	margin: 5px;
+}
+.Header button {
+	color: whitesmoke;
+	font-weight: bold;
+}
+.Header button svg {
+	margin-left: 5px;
+	font-size: 19px;
+}
+a:hover {
+	text-decoration: none;
+}
+.Header .logoutBtn svg {
+	color: black;
+}
